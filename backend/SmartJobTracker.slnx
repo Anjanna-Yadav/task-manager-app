@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartJobTracker.API/SmartJobTracker.API.csproj" />
+  <Project Path="SmartJobTracker.Core/SmartJobTracker.Core.csproj" />
+  <Project Path="SmartJobTracker.Infrastructure/SmartJobTracker.Infrastructure.csproj" />
+</Solution>

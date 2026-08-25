@@ -1,0 +1,20 @@
+# Node & Angular
+node_modules/
+.angular/
+dist/
+.vscode/
+.idea/
+
+# .NET / C#
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# OS & Environment
+.DS_Store
+Thumbs.db
+*.log
